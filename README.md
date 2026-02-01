@@ -1,6 +1,9 @@
 # BrutalSpan - Memory Roast Game
 
-A neon-themed memory game that brutally roasts you when you fail! Features 380+ dynamic roasts in English and Hinglish, 50+ meme GIFs, and a savage difficulty progression system inspired by chimpanzee memory tests.
+Your attention span is cooked. Prove me wrong. Most players fail before Level 12. Why? Because your brain is looking for a scroll wheel that isn't there.
+BrutalSpan is a quietly brutal memory game that targets the short attention span caused by years of infinite scrolling. We show you numbers. They disappear. You tap them back. If you mess up, we roast you.
+We know you’re addicted to the dopamine loop. We know your internal monologue is a 7-second audio clip. We built this game to mock that reality.
+Enter the grid. Test your focus. Face the memes. Prove you aren't a biological remote control.
 
 **🎮 [Play Live Demo](https://brutalspan.netlify.app)**
 
